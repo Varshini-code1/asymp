@@ -8,4 +8,4 @@ def leaders(a, a_size):
             currentmax = a[i]
 
 a = [16, 17, 4, 3, 5, 245]
-leaders(a, len(a))
+leaders(a, len(a))r.py
